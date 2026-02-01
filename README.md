@@ -1,191 +1,86 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Munashe Anita Mutsinze | Data Analyst</title>
-  <style>
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-      max-width: 900px;
-      margin: 40px auto;
-      padding: 0 20px;
-      line-height: 1.6;
-      color: #24292f;
-      background-color: #ffffff;
-    }
+# **[Munashe Mutsinze](https://github.com/munashemutsinze)** 
 
-    h1, h2, h3 {
-      line-height: 1.3;
-    }
+# Munashe Anita Mutsinze
+### Data Analyst | BI Developer | Research | Python • SQL • Power BI • Tableau • ETL • Business Intelligence
 
-    h1 {
-      font-size: 2.4rem;
-      margin-bottom: 0;
-    }
+📍 Worcester, MA  
+📩 [Email](mailto:munasheanitam@gmail.com) • 🔗 [LinkedIn](https://www.linkedin.com/in/munashemutsinze) • 📊 [Kaggle](https://kaggle.com/munashemutsinze)
 
-    h2 {
-      margin-top: 2.5rem;
-      border-bottom: 1px solid #eaecef;
-      padding-bottom: 6px;
-    }
+---
 
-    h3 {
-      margin-top: 1.5rem;
-    }
+## 👋 About me   
 
-    a {
-      color: #0969da;
-      text-decoration: none;
-    }
+I’m a **Data Analyst** with **3+ years of experience** working with complex **healthcare and research datasets**, using **SQL for data extraction** and **Python for analysis** to support data-driven decision-making at scale.
 
-    a:hover {
-      text-decoration: underline;
-    }
+I have a strong foundation in **Statistics, Python and SQL**, with hands-on experience working with real-world public health data.
 
-    .subtitle {
-      font-size: 1.1rem;
-      color: #57606a;
-      margin-top: 5px;
-    }
+**What I work with:**
+- Data cleaning, validation and preprocessing (Python, SQL)
+- Statistical analysis (regression, hypothesis testing, trend analysis)
+- Data visualization & dashboards (Tableau, Power BI)
 
-    .meta {
-      margin-top: 10px;
-      font-size: 0.95rem;
-    }
+I’ve supported data-driven decision-making at non-governmental organizations with a focus on **data quality assessment, Key Performance Indicator (KPI) monitoring and reporting**.
+I am currently deepening my knowledge by pursuing a **Master's in Data Analaytics** at Clark University.
+Here on GitHub, I share projects related to **data analytics, SQL, statistics, and visualization** with an emphasis on practical, impact-driven analysis.
 
-    ul {
-      margin-left: 20px;
-    }
 
-    .section {
-      margin-top: 2rem;
-    }
-  </style>
-</head>
+---
 
-<body>
+## 🧠 Core Skills
 
-  <h1>
-    <a href="https://github.com/munashemutsinze">Munashe Mutsinze</a>
-  </h1>
+### Programming & Querying
+- **Python** (Pandas, NumPy)
+- **SQL** (PostgreSQL, MySQL)
+- Git (Version Control)
+- R
 
-  <p class="subtitle">
-    Data Analyst | BI Developer | Research<br />
-    Python • SQL • Power BI • Tableau • ETL • Business Intelligence
-  </p>
+### Analytics, Statistics & Machine Learning
+- **Statistical Analysis** (Regression, Hypothesis Testing)
+- Exploratory Data Analysis (EDA)
+- **Machine Learning** (Linear Regression, Classification Basics)
+- Model Evaluation (Accuracy, Precision, Recall)
 
-  <p class="meta">
-    📍 Worcester, MA<br />
-    📩 <a href="mailto:munasheanitam@gmail.com">Email</a> •
-    🔗 <a href="https://www.linkedin.com/in/munashemutsinze">LinkedIn</a> •
-    📊 <a href="https://kaggle.com/munashemutsinze">Kaggle</a>
-  </p>
+### Research & Data Methods
+- Data Collection
+- Data Quality Assessment
+- KPI Monitoring & Reporting
+- Survey Data Analysis
 
-  <div class="section">
-    <h2>👋 About Me</h2>
-    <p>
-      I’m a <strong>Data Analyst</strong> with <strong>3+ years of experience</strong> working with complex
-      <strong>healthcare and research datasets</strong>, using <strong>SQL</strong> for data extraction and
-      <strong>Python</strong> for analysis to support data-driven decision-making at scale.
-    </p>
+### Analytics & BI Tools
+- **Tableau**
+- **Power BI**
+- Excel
 
-    <p>
-      I have a strong foundation in <strong>Statistics, Python, and SQL</strong>, with hands-on experience
-      working with real-world public health data.
-    </p>
+### Data Engineering
+- **ETL Pipelines** (SQL, Python)
+- **Data Modeling** (Star Schema, Relational)
+- Data Warehousing
+- Git
 
-    <p><strong>What I work with:</strong></p>
-    <ul>
-      <li>Data cleaning, validation, and preprocessing (Python, SQL)</li>
-      <li>Statistical analysis (regression, hypothesis testing, trend analysis)</li>
-      <li>Data visualization & dashboards (Tableau, Power BI)</li>
-    </ul>
+---
 
-    <p>
-      I’ve supported data-driven decision-making at non-governmental organizations with a focus on
-      <strong>data quality assessment, KPI monitoring, and reporting</strong>.
-      I am currently deepening my knowledge by pursuing a <strong>Master’s in Data Analytics</strong> at
-      Clark University.
-    </p>
+## 💼 Professional Experience
 
-    <p>
-      Here on GitHub, I share projects related to <strong>data analytics, SQL, statistics, and visualization</strong>
-      with an emphasis on practical, impact-driven analysis.
-    </p>
-  </div>
+### 
 
-  <div class="section">
-    <h2>🧠 Core Skills</h2>
+---
 
-    <h3>Programming & Querying</h3>
-    <ul>
-      <li><strong>Python</strong> (Pandas, NumPy)</li>
-      <li><strong>SQL</strong> (PostgreSQL, MySQL)</li>
-      <li>Git (Version Control)</li>
-      <li>R</li>
-    </ul>
+## 🧩 Projects
 
-    <h3>Analytics, Statistics & Machine Learning</h3>
-    <ul>
-      <li>Statistical Analysis (Regression, Hypothesis Testing)</li>
-      <li>Exploratory Data Analysis (EDA)</li>
-      <li>Machine Learning (Linear Regression, Classification Basics)</li>
-      <li>Model Evaluation (Accuracy, Precision, Recall)</li>
-    </ul>
+### Project Title
 
-    <h3>Research & Data Methods</h3>
-    <ul>
-      <li>Data Collection</li>
-      <li>Data Quality Assessment</li>
-      <li>KPI Monitoring & Reporting</li>
-      <li>Survey Data Analysis</li>
-    </ul>
 
-    <h3>Analytics & BI Tools</h3>
-    <ul>
-      <li><strong>Tableau</strong></li>
-      <li><strong>Power BI</strong></li>
-      <li>Excel</li>
-    </ul>
+Code – [GitHub Repo](https://github.com/...)  
+Report – [PDF/Repo Link](https://github.com/...)
 
-    <h3>Data Engineering</h3>
-    <ul>
-      <li>ETL Pipelines (SQL, Python)</li>
-      <li>Data Modeling (Star Schema, Relational)</li>
-      <li>Data Warehousing</li>
-      <li>Git</li>
-    </ul>
-  </div>
+---
 
-  <div class="section">
-    <h2>🧩 Projects</h2>
-    <h3>Project Title</h3>
-    <p>
-      Code – <a href="https://github.com/">GitHub Repo</a><br />
-      Report – <a href="https://github.com/">PDF / Repo Link</a>
-    </p>
-  </div>
+## 🎯 Roles I’m Targeting
+- Data Analyst
+- Research Analyst
+- Business Intelligence Developer
+- Data Engineer
 
-  <div class="section">
-    <h2>🎯 Roles I’m Targeting</h2>
-    <ul>
-      <li>Data Analyst</li>
-      <li>Research Analyst</li>
-      <li>Business Intelligence Developer</li>
-      <li>Data Engineer</li>
-    </ul>
-  </div>
+---
 
-  <div class="section">
-    <h2>🤝 Let’s Connect</h2>
-    <p>
-      Feel free to connect with me on
-      <a href="https://www.linkedin.com/in/munashemutsinze">LinkedIn</a>
-      or explore my projects here on GitHub.
-    </p>
-  </div>
-
-</body>
-</html>
-
+## 🤝 Let’s Connect
