@@ -65,16 +65,6 @@ Here on GitHub, I share projects related to **data analytics, SQL, statistics, a
 
 ---
 
-## 🧩 Projects
-
-### Project Title
-
-
-Code – [GitHub Repo](https://github.com/...)  
-Report – [PDF/Repo Link](https://github.com/...)
-
----
-
 ## 🎯 Roles I’m Targeting
 - Data Analyst
 - Research Analyst
