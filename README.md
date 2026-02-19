@@ -21,7 +21,7 @@ I have a strong foundation in **Statistics, Python and SQL**, with hands-on expe
 
 I’ve supported data-driven decision-making at non-governmental organizations with a focus on **data quality assessment, Key Performance Indicator (KPI) monitoring and reporting**.
 I am currently deepening my knowledge by pursuing a **Master's in Data Analaytics** at Clark University.
-Here on GitHub, I share projects related to **data analytics, SQL, statistics, and visualization** with an emphasis on practical, impact-driven analysis.
+Here on GitHub, I will be sharing projects related to **data analytics, SQL, statistics, and visualization** with an emphasis on practical, impact-driven analysis.
 
 
 ---
@@ -60,6 +60,9 @@ Here on GitHub, I share projects related to **data analytics, SQL, statistics, a
 ---
 
 ## 💼 Professional Experience
+- Junior Data Analyst (2023-2025)
+- Graduate  Data Analyst (2022-2023)
+- Data Analyst Intern (2019-2020)
 
 ### 
 
@@ -74,3 +77,4 @@ Here on GitHub, I share projects related to **data analytics, SQL, statistics, a
 ---
 
 ## 🤝 Let’s Connect
+Feel free to connect with me on LinkedIn or explore my future projects here on GitHub.
